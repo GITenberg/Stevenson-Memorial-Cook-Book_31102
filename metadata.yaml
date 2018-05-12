@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 31102-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31102#Stevenson-Memorial-Cook-Book
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2010-01-27'
 gutenberg_type: Text
