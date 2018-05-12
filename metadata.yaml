@@ -1,0 +1,28 @@
+_repo: Stevenson-Memorial-Cook-Book_31102
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hurlbut, William D., Mrs.
+    alias: Hurlbut, Mrs. William D.
+    birthdate: 1865
+    gutenberg_agent_id: '40182'
+    url: http://www.gutenberg.org/2009/agents/40182
+covers:
+- cover_type: archival
+  image_path: 31102-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31102'
+  lccn: '22006730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: Stevenson Memorial Cook Book
+url: http://www.gutenberg.org/ebooks/31102
